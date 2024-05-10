@@ -1,7 +1,10 @@
 # PacMan-OpenGL
 
-_ _Inspired by the classic Pacman arcade game, 'Maze Munchers' is a modern rendition that combines 
-nostalgic gameplay with contemporary graphics and mechanics._ _
+_Inspired by the classic Pacman arcade game, 'Maze Munchers' is a modern rendition that combines 
+nostalgic gameplay with contemporary graphics and mechanics._ 
+
+
+
 The project aims to recreate the immersive experience of the original game while introducing new elements to enhance gameplay and 
 engagement. Utilising OpenGL for graphics rendering and GLUT for user interaction, 'Maze Munchers 
 presents players with a series of mazes populated by pellets and ghosts. The player, controlling a 
